@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1628080519 source:f:\cc++\c++-assignment\cricketgame\game.cpp
+
+1628080416 source:f:\cc++\c++-assignment\cricketgame\player.cpp
+
+1628080465 source:f:\cc++\c++-assignment\cricketgame\team.cpp
+
+1637052979 source:d:\c++ files\cricketgame\game.cpp
+	"Game.h"
+
+1637052976 d:\c++ files\cricketgame\game.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<limits>
+	"Team.h"
+
+1637052952 d:\c++ files\cricketgame\team.h
+	<vector>
+	"Player.h"
+
+1637052961 d:\c++ files\cricketgame\player.h
+	<string>
+
+1637052974 source:d:\c++ files\cricketgame\main.cpp
+	"Game.h"
+
+1637052966 source:d:\c++ files\cricketgame\player.cpp
+	"Player.h"
+
+1637052956 source:d:\c++ files\cricketgame\team.cpp
+	"Team.h"
+
